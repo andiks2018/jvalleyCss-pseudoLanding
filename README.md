@@ -18,3 +18,6 @@
 ### Membuat hover selection di menu 
 ![image](https://user-images.githubusercontent.com/78794419/183794464-6b7665b1-7bfd-4dbc-b725-490c28e0a698.png)
 
+### penting ketika melihat sebuah tampilan wesbite langsung bisa meilhat akan seperti apa bentuknya 
+![image](https://user-images.githubusercontent.com/78794419/183797180-63499963-c3c3-4f77-94d3-e2f0b1c3fb5d.png)
+
