@@ -54,7 +54,7 @@ div > p {
 }
 .banner {
   background-image: url('https://images.pexels.com/photos/4641265/pexels-photo-4641265.jpeg?auto=compress&cs=tinysrgb&w=600');
-  width: 300px;
+/*   width: 300px; */
   height: 200px;
   background-size: cover;
   transition-duration: 500ms;
