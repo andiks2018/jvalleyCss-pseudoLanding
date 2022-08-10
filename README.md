@@ -14,3 +14,7 @@
 
 ### Membuat landing page serta memberi hover 
 ![image](https://user-images.githubusercontent.com/78794419/183793746-89e76bd9-9c66-47c4-a6de-89014a643ff1.png)
+
+### Membuat hover selection di menu 
+![image](https://user-images.githubusercontent.com/78794419/183794464-6b7665b1-7bfd-4dbc-b725-490c28e0a698.png)
+
